@@ -1,1 +1,1 @@
-# barbearia-aluranicolas
+# barbeari-aluranicolas
